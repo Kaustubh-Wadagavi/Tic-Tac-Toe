@@ -10,7 +10,9 @@ Game Is Designed In Linux Shell Script.
 
       1. After initialisation of the Game.
 
-      2. Just enter command draw (RowNumber) (ColumnNumber). Then It will draw your symbol.(X or O)
+      2. Just enter command "draw (RowNumber) (ColumnNumber)". 
+      
+      3. Then It will draw your symbol (X or O) on which row and column you are selected. 
 
       3. After completion of Game It will declaire the winner.
 
