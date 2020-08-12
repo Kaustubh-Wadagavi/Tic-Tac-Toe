@@ -1,10 +1,10 @@
 # Tic-Tac-Toe
 
-Game Is Designed In Linux Shell Script.
+      Tic-Tac-Toe game is designed in the Linux Shell Script.
 
 ***How to Run?***
 
-./TicTacToe.sh
+     ./TicTacToe.sh
 
 ***How to Play?***
 
@@ -18,17 +18,19 @@ Game Is Designed In Linux Shell Script.
 
       4. The if you want to play again then just enter the "reset" command.
 
-***Outputs of the Shell Script***
 
-**1. Initialising The Game**
+***Outputs of the Shell Script***
+                                                            
+
+    1. Initializing The Game
 
 ![Image1](https://github.com/Kaustubh-Wadagavi/Tic-Tac-Toe/blob/master/output/Initiasization.png)
 
-**2. Drawing the Symbols (X or O)
+    2. Drawing the Symbols (X or O)
 
 ![Image](https://github.com/Kaustubh-Wadagavi/Tic-Tac-Toe/blob/master/output/DrawingValues.png)
 
-**3. Declaring The Winner**
+    3. Declaring The Winner
 
 ![image](https://github.com/Kaustubh-Wadagavi/Tic-Tac-Toe/blob/master/output/DeclairingWinner.png)
 
