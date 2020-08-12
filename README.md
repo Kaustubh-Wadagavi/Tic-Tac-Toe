@@ -26,7 +26,7 @@
 
 ![Image1](https://github.com/Kaustubh-Wadagavi/Tic-Tac-Toe/blob/master/output/Initiasization.png)
 
-    2. Drawing the Symbols (X or O)
+    2. Drawing The Symbols (X or O)
 
 ![Image](https://github.com/Kaustubh-Wadagavi/Tic-Tac-Toe/blob/master/output/DrawingValues.png)
 
